@@ -139,4 +139,10 @@ label {
         display: none;
     }
 
+    .button_shopping {
+        margin-left: 0;
+        width: 120px;
+        padding: 0 10px;
+    }
+
 }
